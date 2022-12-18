@@ -46,4 +46,7 @@ You can check out out demo video [here](https://www.youtube.com/watch?v=D734M-M7
 * https://docs.arduino.cc/learn/electronics/lcd-displays 
 * https://www.youtube.com/watch?v=ep7uBz43fCI&ab_channel=PaulMcWhorter
    
-I hope this project helps you promote proper hand-washing habits and adds a little bit of fun to your daily routine. Enjoy!
+## Contibutors
+* Guliza Aitkuloa
+* Leyla Khamidova
+* Shokhrukh Komiljonov
