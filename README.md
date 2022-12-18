@@ -14,7 +14,14 @@ We hope you find this project useful and informative. Thank you for your interes
 * Buzzer
 * 4-Digit 7 Segment Display
 * Humidity Sensor
-* LCD Display 
+* LCD Display    
+
+## Software Requirements
+* Sevseg
+* DHT
+* Adafruit-GFX
+* Adafruit-LED-Backpack
+* Adafruit-BusIO 
 
 ## Usage
 1. Place your hand under the infrared sensor to start the hand-washing timer and music.
