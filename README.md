@@ -1,6 +1,6 @@
 # Hand Wash Timer
 ![box](assets/box.jpg)    
-Welcome to the Touchless Musical Hand Wash Timer project! Our goal is to help stop the spread of Covid-19 and improve hygiene discipline in a fun and interesting way.
+Welcome to the Touchless Musical Hand Wash Timer project! Our goal is to help stop the spread of Covid-19 and improve hygiene discipline in a fun and interesting way. This is the final project of the team LG for Creative ISE Design class.
 
 This touchless hand wash timer displays a countdown clock to remind users to wash their hands for the recommended amount of time, and also displays the room's humidity and temperature. Additionally, it plays music while the timer is running to make the hand washing process more enjoyable.
 
