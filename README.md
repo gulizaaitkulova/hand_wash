@@ -47,6 +47,6 @@ You can check out out demo video [here](https://www.youtube.com/watch?v=D734M-M7
 * https://www.youtube.com/watch?v=ep7uBz43fCI&ab_channel=PaulMcWhorter
    
 ## Contibutors
-* Guliza Aitkuloa
+* Guliza Aitkulova
 * Leyla Khamidova
 * Shokhrukh Komiljonov
