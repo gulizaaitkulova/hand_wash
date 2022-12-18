@@ -16,11 +16,6 @@ We hope you find this project useful and informative. Thank you for your interes
 * Humidity Sensor
 * LCD Display 
 
-## Setup
-1. Connect the infrared sensor to the breadboard. Connect the VCC pin to 3.3V or 5V on the Arduino board, the GND pin to GND on the Arduino board, the TRIG pin to digital pin 2, and the ECHO pin to digital pin 3.
-2. Connect the speaker or buzzer to the breadboard. Connect one end to GND and the other end to digital pin 8.
-3. Upload the code to the Arduino board using the Arduino IDE.
-
 ## Usage
 1. Place your hand under the infrared sensor to start the hand-washing timer and music.
 2. Wash your hands for at least 20 seconds while the music plays.
