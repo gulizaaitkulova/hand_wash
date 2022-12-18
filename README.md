@@ -9,10 +9,12 @@ The target audience for this project is students at INHA University, and it can 
 We hope you find this project useful and informative. Thank you for your interest!    
 
 ## Hardware Requirements
-* Arduino board (e.g. Arduino Uno, Nano, Mega)
-* Infrared sensor (e.g. HC-SR04)
-* Speaker or buzzer
-* Breadboard and jumper wires
+* Arduino Board (Mega)
+* Ultrasonic Sensor
+* Buzzer
+* 4-Digit 7 Segment Display
+* Humidity Sensor
+* LCD Display 
 
 ## Setup
 1. Connect the infrared sensor to the breadboard. Connect the VCC pin to 3.3V or 5V on the Arduino board, the GND pin to GND on the Arduino board, the TRIG pin to digital pin 2, and the ECHO pin to digital pin 3.
