@@ -14,7 +14,8 @@ We hope you find this project useful and informative. Thank you for your interes
 * Buzzer
 * 4-Digit 7 Segment Display
 * Humidity Sensor
-* LCD Display    
+* LCD Display  
+* 10K Potentiometer
 
 ## Software Requirements
 * Sevseg
