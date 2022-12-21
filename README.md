@@ -16,6 +16,7 @@ We hope you find this project useful and informative. Thank you for your interes
 * Humidity Sensor
 * LCD Display  
 * 10K Potentiometer
+* Battery holder with batteries
 
 ## Software Requirements
 * Sevseg
